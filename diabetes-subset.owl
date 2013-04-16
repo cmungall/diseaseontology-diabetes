@@ -45,9 +45,9 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/RO_0002363 -->
+    <!-- http://purl.obolibrary.org/obo/DOCJM_0002363 -->
 
-    <owl:AnnotationProperty rdf:about="&obo;RO_0002363">
+    <owl:AnnotationProperty rdf:about="&obo;DOCJM_0002363">
         <rdfs:label xml:lang="en">has_frequency</rdfs:label>
     </owl:AnnotationProperty>
     
@@ -128,17 +128,17 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/RO_0002358 -->
+    <!-- http://purl.obolibrary.org/obo/DOCJM_0002358 -->
 
-    <owl:ObjectProperty rdf:about="&obo;RO_0002358">
+    <owl:ObjectProperty rdf:about="&obo;DOCJM_0002358">
         <rdfs:label xml:lang="en">has_phenotype</rdfs:label>
     </owl:ObjectProperty>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/RO_0002369 -->
+    <!-- http://purl.obolibrary.org/obo/DOCJM_0002369 -->
 
-    <owl:ObjectProperty rdf:about="&obo;RO_0002369">
+    <owl:ObjectProperty rdf:about="&obo;DOCJM_0002369">
         <rdfs:label xml:lang="en">has_secondary_complication</rdfs:label>
     </owl:ObjectProperty>
     
@@ -466,19 +466,19 @@
         <rdfs:subClassOf rdf:resource="&obo;DOID_9351"/>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
-                <owl:someValuesFrom rdf:resource="&obo;RO_0002359"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
+                <owl:someValuesFrom rdf:resource="&obo;DOCJM_0002359"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0002315"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0001959"/>
             </owl:Restriction>
         </rdfs:subClassOf>
@@ -1602,91 +1602,91 @@
         <rdfs:subClassOf rdf:resource="&obo;DOID_4194"/>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002369"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002369"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0001058"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0001824"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
-                <owl:someValuesFrom rdf:resource="&obo;RO_0002360"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
+                <owl:someValuesFrom rdf:resource="&obo;DOCJM_0002360"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002369"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002369"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0001271"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0005406"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
-                <owl:someValuesFrom rdf:resource="&obo;RO_0002361"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
+                <owl:someValuesFrom rdf:resource="&obo;DOCJM_0002361"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0002591"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002369"/>
-                <owl:someValuesFrom rdf:resource="&obo;RO_0002370"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002369"/>
+                <owl:someValuesFrom rdf:resource="&obo;DOCJM_0002370"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0000103"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002369"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002369"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0002718"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002369"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002369"/>
                 <owl:someValuesFrom rdf:resource="&obo;DOID_10182"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0001959"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0002189"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0002315"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002369"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002369"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0000093"/>
             </owl:Restriction>
         </rdfs:subClassOf>
@@ -1707,34 +1707,34 @@
         <oboInOwl:hasOBONamespace rdf:datatype="&xsd;string">none</oboInOwl:hasOBONamespace>
     </owl:Class>
     <owl:Axiom>
-        <obo:RO_0002363>Frequent</obo:RO_0002363>
+        <obo:DOCJM_0002363>Frequent</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9351"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002369"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002369"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0001058"/>
             </owl:Restriction>
         </owl:annotatedTarget>
     </owl:Axiom>
     <owl:Axiom>
-        <obo:RO_0002363>Less frequent</obo:RO_0002363>
+        <obo:DOCJM_0002363>Less frequent</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9351"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0002315"/>
             </owl:Restriction>
         </owl:annotatedTarget>
     </owl:Axiom>
     <owl:Axiom>
-        <obo:RO_0002363>Frequent</obo:RO_0002363>
+        <obo:DOCJM_0002363>Frequent</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9351"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0000103"/>
             </owl:Restriction>
         </owl:annotatedTarget>
@@ -1746,12 +1746,12 @@
         <owl:annotatedProperty rdf:resource="&oboInOwl;hasExactSynonym"/>
     </owl:Axiom>
     <owl:Axiom>
-        <obo:RO_0002363>Frequent</obo:RO_0002363>
+        <obo:DOCJM_0002363>Frequent</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9351"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002369"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002369"/>
                 <owl:someValuesFrom rdf:resource="&obo;DOID_10182"/>
             </owl:Restriction>
         </owl:annotatedTarget>
@@ -1766,35 +1766,35 @@
         <owl:annotatedProperty rdf:resource="&oboInOwl;hasExactSynonym"/>
     </owl:Axiom>
     <owl:Axiom>
-        <obo:RO_0002363>Frequent</obo:RO_0002363>
+        <obo:DOCJM_0002363>Frequent</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9351"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002369"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002369"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0002718"/>
             </owl:Restriction>
         </owl:annotatedTarget>
     </owl:Axiom>
     <owl:Axiom>
-        <obo:RO_0002363>Hallmark</obo:RO_0002363>
+        <obo:DOCJM_0002363>Hallmark</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9351"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0001824"/>
             </owl:Restriction>
         </owl:annotatedTarget>
     </owl:Axiom>
     <owl:Axiom>
-        <obo:RO_0002363>Frequent</obo:RO_0002363>
+        <obo:DOCJM_0002363>Frequent</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9351"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
-                <owl:someValuesFrom rdf:resource="&obo;RO_0002361"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
+                <owl:someValuesFrom rdf:resource="&obo;DOCJM_0002361"/>
             </owl:Restriction>
         </owl:annotatedTarget>
     </owl:Axiom>
@@ -1812,90 +1812,90 @@
     </owl:Axiom>
     <owl:Axiom>
         <rdfs:comment>particularly fingers/toes</rdfs:comment>
-        <obo:RO_0002363>Less frequent than bladder infections</obo:RO_0002363>
+        <obo:DOCJM_0002363>Less frequent than bladder infections</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9351"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0005406"/>
             </owl:Restriction>
         </owl:annotatedTarget>
     </owl:Axiom>
     <owl:Axiom>
-        <obo:RO_0002363>Less frequent</obo:RO_0002363>
+        <obo:DOCJM_0002363>Less frequent</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9351"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002369"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002369"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0000093"/>
             </owl:Restriction>
         </owl:annotatedTarget>
     </owl:Axiom>
     <owl:Axiom>
-        <obo:RO_0002363>Less frequent</obo:RO_0002363>
+        <obo:DOCJM_0002363>Less frequent</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9351"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002369"/>
-                <owl:someValuesFrom rdf:resource="&obo;RO_0002370"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002369"/>
+                <owl:someValuesFrom rdf:resource="&obo;DOCJM_0002370"/>
             </owl:Restriction>
         </owl:annotatedTarget>
     </owl:Axiom>
     <owl:Axiom>
-        <obo:RO_0002363>Rare</obo:RO_0002363>
+        <obo:DOCJM_0002363>Rare</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9351"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0002591"/>
             </owl:Restriction>
         </owl:annotatedTarget>
     </owl:Axiom>
     <owl:Axiom>
-        <obo:RO_0002363>Hallmark</obo:RO_0002363>
+        <obo:DOCJM_0002363>Hallmark</obo:DOCJM_0002363>
         <rdfs:comment>We think this may cause problems with the current hierarchy, where prediabetic is a subtype of diabetes mellitus</rdfs:comment>
         <owl:annotatedSource rdf:resource="&obo;DOID_9351"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
-                <owl:someValuesFrom rdf:resource="&obo;RO_0002360"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
+                <owl:someValuesFrom rdf:resource="&obo;DOCJM_0002360"/>
             </owl:Restriction>
         </owl:annotatedTarget>
     </owl:Axiom>
     <owl:Axiom>
-        <obo:RO_0002363>Frequent</obo:RO_0002363>
+        <obo:DOCJM_0002363>Frequent</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9351"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0002189"/>
             </owl:Restriction>
         </owl:annotatedTarget>
     </owl:Axiom>
     <owl:Axiom>
-        <obo:RO_0002363>Frequent</obo:RO_0002363>
+        <obo:DOCJM_0002363>Frequent</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9351"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002369"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002369"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0001271"/>
             </owl:Restriction>
         </owl:annotatedTarget>
     </owl:Axiom>
     <owl:Axiom>
-        <obo:RO_0002363>Frequent</obo:RO_0002363>
+        <obo:DOCJM_0002363>Frequent</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9351"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0001959"/>
             </owl:Restriction>
         </owl:annotatedTarget>
@@ -1918,7 +1918,7 @@
             <owl:Class>
                 <owl:complementOf>
                     <owl:Restriction>
-                        <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                        <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                         <owl:someValuesFrom rdf:resource="&obo;HP_0001993"/>
                     </owl:Restriction>
                 </owl:complementOf>
@@ -1926,8 +1926,8 @@
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
-                <owl:someValuesFrom rdf:resource="&obo;RO_0002364"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
+                <owl:someValuesFrom rdf:resource="&obo;DOCJM_0002364"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <obo:IAO_0000115 rdf:datatype="&xsd;string">A diabetes mellitus that involves high blood glucose resulting from cells fail to use insulin properly.</obo:IAO_0000115>
@@ -1954,13 +1954,13 @@
         <owl:annotatedProperty rdf:resource="&obo;IAO_0000115"/>
     </owl:Axiom>
     <owl:Axiom>
-        <obo:RO_0002363>Rare</obo:RO_0002363>
+        <obo:DOCJM_0002363>Rare</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9352"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
-                <owl:someValuesFrom rdf:resource="&obo;RO_0002364"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
+                <owl:someValuesFrom rdf:resource="&obo;DOCJM_0002364"/>
             </owl:Restriction>
         </owl:annotatedTarget>
     </owl:Axiom>
@@ -2095,20 +2095,20 @@
         <rdfs:subClassOf rdf:resource="&obo;DOID_9351"/>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
-                <owl:someValuesFrom rdf:resource="&obo;RO_0002368"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
+                <owl:someValuesFrom rdf:resource="&obo;DOCJM_0002368"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0001953"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <rdfs:subClassOf>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
-                <owl:someValuesFrom rdf:resource="&obo;RO_0002365"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
+                <owl:someValuesFrom rdf:resource="&obo;DOCJM_0002365"/>
             </owl:Restriction>
         </rdfs:subClassOf>
         <obo:IAO_0000115 rdf:datatype="&xsd;string">A diabetes mellitus that results from the body&apos;s failure to produce insulin and has_material_basis_in autoimmune destruction of insulin-producing beta cells of the pancreas.</obo:IAO_0000115>
@@ -2128,36 +2128,36 @@
         <oboInOwl:hasOBONamespace rdf:datatype="&xsd;string">none</oboInOwl:hasOBONamespace>
     </owl:Class>
     <owl:Axiom>
-        <obo:RO_0002363>Hallmark of type I</obo:RO_0002363>
+        <obo:DOCJM_0002363>Hallmark of type I</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9744"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
                 <owl:someValuesFrom rdf:resource="&obo;HP_0001953"/>
             </owl:Restriction>
         </owl:annotatedTarget>
     </owl:Axiom>
     <owl:Axiom>
-        <obo:RO_0002363>Very frequent - exception is MODY</obo:RO_0002363>
+        <obo:DOCJM_0002363>Very frequent - exception is MODY</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9744"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
-                <owl:someValuesFrom rdf:resource="&obo;RO_0002368"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
+                <owl:someValuesFrom rdf:resource="&obo;DOCJM_0002368"/>
             </owl:Restriction>
         </owl:annotatedTarget>
     </owl:Axiom>
     <owl:Axiom>
         <obo:comment>hallmark of ketoacidosis</obo:comment>
-        <obo:RO_0002363>Rare</obo:RO_0002363>
+        <obo:DOCJM_0002363>Rare</obo:DOCJM_0002363>
         <owl:annotatedSource rdf:resource="&obo;DOID_9744"/>
         <owl:annotatedProperty rdf:resource="&rdfs;subClassOf"/>
         <owl:annotatedTarget>
             <owl:Restriction>
-                <owl:onProperty rdf:resource="&obo;RO_0002358"/>
-                <owl:someValuesFrom rdf:resource="&obo;RO_0002365"/>
+                <owl:onProperty rdf:resource="&obo;DOCJM_0002358"/>
+                <owl:someValuesFrom rdf:resource="&obo;DOCJM_0002365"/>
             </owl:Restriction>
         </owl:annotatedTarget>
     </owl:Axiom>
@@ -2171,36 +2171,36 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/RO_0002359 -->
+    <!-- http://purl.obolibrary.org/obo/DOCJM_0002359 -->
 
-    <owl:Class rdf:about="&obo;RO_0002359">
+    <owl:Class rdf:about="&obo;DOCJM_0002359">
         <rdfs:label xml:lang="en">Intermittent hyperglycemia</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;HP_0003074"/>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/RO_0002360 -->
+    <!-- http://purl.obolibrary.org/obo/DOCJM_0002360 -->
 
-    <owl:Class rdf:about="&obo;RO_0002360">
+    <owl:Class rdf:about="&obo;DOCJM_0002360">
         <rdfs:label xml:lang="en">Constant hyperglycemia</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;HP_0003074"/>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/RO_0002361 -->
+    <!-- http://purl.obolibrary.org/obo/DOCJM_0002361 -->
 
-    <owl:Class rdf:about="&obo;RO_0002361">
+    <owl:Class rdf:about="&obo;DOCJM_0002361">
         <rdfs:label xml:lang="en">Recurrent bacterial bladder infections</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;HP_0002718"/>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/RO_0002364 -->
+    <!-- http://purl.obolibrary.org/obo/DOCJM_0002364 -->
 
-    <owl:Class rdf:about="&obo;RO_0002364">
+    <owl:Class rdf:about="&obo;DOCJM_0002364">
         <rdfs:label xml:lang="en">Hyperglycemic coma</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;HP_0001259"/>
         <obo:IAO_0000115>Loss of consciousness due to massive hypoglycemia</obo:IAO_0000115>
@@ -2210,28 +2210,28 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/RO_0002365 -->
+    <!-- http://purl.obolibrary.org/obo/DOCJM_0002365 -->
 
-    <owl:Class rdf:about="&obo;RO_0002365">
+    <owl:Class rdf:about="&obo;DOCJM_0002365">
         <rdfs:label xml:lang="en">Kussmaul hyperventilation</rdfs:label>
-        <rdfs:subClassOf rdf:resource="&obo;RO_0002366"/>
+        <rdfs:subClassOf rdf:resource="&obo;DOCJM_0002366"/>
         <oboInOwl:hasExactSynonym>Kussmaul breathing</oboInOwl:hasExactSynonym>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/RO_0002366 -->
+    <!-- http://purl.obolibrary.org/obo/DOCJM_0002366 -->
 
-    <owl:Class rdf:about="&obo;RO_0002366">
+    <owl:Class rdf:about="&obo;DOCJM_0002366">
         <rdfs:label xml:lang="en">Constant hyperventilation</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;HP_0002883"/>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/RO_0002367 -->
+    <!-- http://purl.obolibrary.org/obo/DOCJM_0002367 -->
 
-    <owl:Class rdf:about="&obo;RO_0002367">
+    <owl:Class rdf:about="&obo;DOCJM_0002367">
         <rdfs:label xml:lang="en">Presence of autoantibodies</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;HP_0002715"/>
         <obo:comment>We are not sure whether this belongs in HPO or an assay ontology[PhenoBridges]</obo:comment>
@@ -2239,18 +2239,18 @@
     
 
 
-    <!-- http://purl.obolibrary.org/obo/RO_0002368 -->
+    <!-- http://purl.obolibrary.org/obo/DOCJM_0002368 -->
 
-    <owl:Class rdf:about="&obo;RO_0002368">
+    <owl:Class rdf:about="&obo;DOCJM_0002368">
         <rdfs:label xml:lang="en">presence of autoantibodies against glutamic acid decarboxylase</rdfs:label>
-        <rdfs:subClassOf rdf:resource="&obo;RO_0002367"/>
+        <rdfs:subClassOf rdf:resource="&obo;DOCJM_0002367"/>
     </owl:Class>
     
 
 
-    <!-- http://purl.obolibrary.org/obo/RO_0002370 -->
+    <!-- http://purl.obolibrary.org/obo/DOCJM_0002370 -->
 
-    <owl:Class rdf:about="&obo;RO_0002370">
+    <owl:Class rdf:about="&obo;DOCJM_0002370">
         <rdfs:label xml:lang="en">Diabetic cataract</rdfs:label>
         <rdfs:subClassOf rdf:resource="&obo;HP_0000518"/>
         <rdfs:comment>Caused by increased sugar in the lens</rdfs:comment>
