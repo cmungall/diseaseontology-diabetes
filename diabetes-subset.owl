@@ -131,7 +131,7 @@
     <!-- http://purl.obolibrary.org/obo/DOCJM_0002358 -->
 
     <owl:ObjectProperty rdf:about="&obo;DOCJM_0002358">
-        <rdfs:label xml:lang="en">has_phenotype</rdfs:label>
+        <rdfs:label xml:lang="en">has_phenotype_association</rdfs:label>
     </owl:ObjectProperty>
     
 
