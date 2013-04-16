@@ -3521,6 +3521,7 @@ id: pat_id_17132
 name: Rare genetic endocrine disease
 namespace: EFO
 is_a: EFO:0000508  ! genetic disorder
+is_a: DOID:28 ! endocrine system disease
 property_value: http://purl.obolibrary.org/obo/comment "Expert Link -http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=156638" xsd:string
 property_value: http://purl.obolibrary.org/obo/comment "Orphanet ID- 17132" xsd:string
 property_value: http://purl.obolibrary.org/obo/comment "prevalence- null; AgeOfOnset- null; AgeOfDeath-null;" xsd:string
@@ -4175,6 +4176,7 @@ id: pat_id_18292
 name: Rare genetic diabetes mellitus
 namespace: EFO
 is_a: pat_id_17132  ! Rare genetic endocrine disease
+is_a: DOID:9351 ! diabetes mellitus
 property_value: http://purl.obolibrary.org/obo/comment "Expert Link -http://www.orpha.net/consor/cgi-bin/OC_Exp.php?lng=en&Expert=183625" xsd:string
 property_value: http://purl.obolibrary.org/obo/comment "Orphanet ID- 18292" xsd:string
 property_value: http://purl.obolibrary.org/obo/comment "prevalence- null; AgeOfOnset- null; AgeOfDeath-null;" xsd:string
