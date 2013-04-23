@@ -19,7 +19,7 @@ involved.
 Disease-phenotype associations are made using relationships between
 the DO class and HP class. These are OWL axioms of the form
 
-  <disease> SubClassOf has_phenotype some <phenotype>
+  DISEASE SubClassOf has_phenotype some PHENOTYPE
 
 Frequency data was added as axiom annotations using the has_frequency
 property and an ad-hoc list of semi-controlled strings (Frequent,
